@@ -20,9 +20,9 @@ A fully responsive **E-commerce mobile application** built using **Flutter**, de
 🛠️ Tech Stack
 
 * **Frontend:** Flutter (Dart)
-* **State Management:** (Add if used – Provider / Riverpod / Bloc)
-* **Backend/API:** (Mention if integrated)
-* **Storage:** SharedPreferences / Firebase (if used)
+* **State Management:** (Riverpod)
+* **Backend/API:** (Apis)
+* **Storage:** SharedPreferences
 
 
 
