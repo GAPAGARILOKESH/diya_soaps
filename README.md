@@ -1,6 +1,6 @@
 # 🧼 Diya Soaps – E-commerce Mobile App (Flutter)
 
-A fully responsive **E-commerce mobile application** built using **Flutter**, designed for selling handmade soaps. This app provides a smooth shopping experience with modern UI, product browsing, and user-friendly navigation.
+A fully responsive E-commerce mobile application built using Flutter, designed for selling handmade soaps. This app provides a smooth shopping experience with modern UI, product browsing, and user-friendly navigation.
 
 
 
@@ -8,10 +8,7 @@ A fully responsive **E-commerce mobile application** built using **Flutter**, de
 
 🛍️ Product Listing & Details
 🔍 Search Functionality
-🛒 Add to Cart
 ❤️ Wishlist Support
-👤 User Profile Management
-🔐 Authentication (Login/Signup)
 📱 Fully Responsive UI
 ⚡ Fast Performance with Flutter
 
@@ -21,7 +18,7 @@ A fully responsive **E-commerce mobile application** built using **Flutter**, de
 
 * **Frontend:** Flutter (Dart)
 * **State Management:** (Riverpod)
-* **Backend/API:** (Apis)
+* **Backend/API:** (Node.js)
 * **Storage:** SharedPreferences
 
 
@@ -50,10 +47,10 @@ A fully responsive **E-commerce mobile application** built using **Flutter**, de
 
 
 lib/
-│── screens/
-│── widgets/
+│── constants/
 │── models/
-│── services/
+│── providers/
+│── screens/
 │── main.dart
 
 
@@ -88,7 +85,8 @@ Applink : https://play.google.com/store/apps/details?id=com.diyasoaps.app
 
 ---
 
- 📌 Future Improvements
+📌 Future Improvements :
+
 💳 Payment Gateway Integration 
 📦 Order Tracking System
 🔔 Push Notifications
