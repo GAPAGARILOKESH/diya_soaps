@@ -75,6 +75,10 @@ flutter pub get
 
 flutter run
 
+📲 Download App
+
+Applink : https://play.google.com/store/apps/details?id=com.diyasoaps.app
+
 🎯 Project Highlights
 
 * Clean and scalable architecture
